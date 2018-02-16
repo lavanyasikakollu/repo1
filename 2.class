@@ -3,3 +3,9 @@ second commit
 second thing
 third 
 four
+hai
+hello
+how are you
+package ' httpd' do
+  action :install
+end
